@@ -35,12 +35,12 @@
     ],
     "aboutMeCardsTechStack": [
         {
-            "cardName": "frameworks",
+            "cardName": "frameworks:",
             "img": ["react", "redux"],
             "myTechStack": ["React", "React-Redux + toolkit", "React Router", "Styled Components"]
         },
         {
-            "cardName": "Programming/Markup languages",
+            "cardName": "Programming/Markup languages:",
             "img": ["HTML", "CSS", "Vanilla Javascript", "SASS"],
             "myTechStack": ["HTML", "CSS", "Vanilla Javascript", "SASS"]
         }

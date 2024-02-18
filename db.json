@@ -35,7 +35,7 @@
     ],
     "aboutMeCardsTechStack": [
         {
-            "cardName": "frameworks:",
+            "cardName": "Frameworks:",
             "img": ["react", "redux"],
             "myTechStack": ["React", "React-Redux + toolkit", "React Router", "Styled Components"]
         },
